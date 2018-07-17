@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/acre_bg.qm</file>
+        <file alias="ca">locale/acre_ca.qm</file>
+        <file alias="cs">locale/acre_cs.qm</file>
+        <file alias="da">locale/acre_da.qm</file>
+        <file alias="de">locale/acre_de.qm</file>
+        <file alias="en">locale/acre_en.qm</file>
+        <file alias="en_US">locale/acre_en_US.qm</file>
+        <file alias="es">locale/acre_es.qm</file>
+        <file alias="fi">locale/acre_fi.qm</file>
+        <file alias="fr_FR">locale/acre_fr_FR.qm</file>
+        <file alias="hr">locale/acre_hr.qm</file>
+        <file alias="it">locale/acre_it.qm</file>
+        <file alias="ja">locale/acre_ja.qm</file>
+        <file alias="ko_KR">locale/acre_ko_KR.qm</file>
+        <file alias="nl">locale/acre_nl.qm</file>
+        <file alias="pl">locale/acre_pl.qm</file>
+        <file alias="pt">locale/acre_pt.qm</file>
+        <file alias="pt_BR">locale/acre_pt_BR.qm</file>
+        <file alias="ro_RO">locale/acre_ro_RO.qm</file>
+        <file alias="ru">locale/acre_ru.qm</file>
+        <file alias="sk">locale/acre_sk.qm</file>
+        <file alias="sv">locale/acre_sv.qm</file>
+        <file alias="tr">locale/acre_tr.qm</file>
+        <file alias="uk">locale/acre_uk.qm</file>
+        <file alias="zh_CN">locale/acre_zh_CN.qm</file>
+        <file alias="zh_TW">locale/acre_zh_TW.qm</file>
+    </qresource>
+</RCC>

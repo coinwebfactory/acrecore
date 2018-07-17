@@ -1,0 +1,11 @@
+[Protocol]
+exec=acre-qt '%u'
+protocol=acre
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

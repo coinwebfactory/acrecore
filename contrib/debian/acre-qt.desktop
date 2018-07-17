@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Acre
+Comment=Acre P2P Cryptocurrency
+Comment[fr]=Acre, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Acre, eşten eşe kriptografik sanal para birimi
+Exec=acre-qt %u
+Terminal=false
+Type=Application
+Icon=acre128
+MimeType=x-scheme-handler/acre;
+Categories=Office;Finance;
